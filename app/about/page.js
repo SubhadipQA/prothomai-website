@@ -172,7 +172,7 @@ function AboutHero() {
             aspectRatio:"4/3",
           }}>
             <Image
-              src="/about-hero.png"
+              src="/AboutUs1.png"
               alt="India urban chaos — the problem we are solving"
               fill
               style={{ objectFit:"cover", opacity:0.85 }}

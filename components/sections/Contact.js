@@ -212,7 +212,7 @@ export default function Contact() {
                 boxShadow:"0 24px 60px rgba(6,182,212,0.12)",
               }}>
                 <Image
-                  src="/contact-hero.png"
+                  src="/Contact2.png"
                   alt="India urban chaos — the problem we are solving"
                   fill
                   sizes="(max-width: 1024px) 100vw, 420px"
