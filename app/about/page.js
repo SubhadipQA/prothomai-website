@@ -183,24 +183,6 @@ function AboutHero() {
               position:"absolute", inset:0,
               // background:"linear-gradient(135deg, rgba(11,17,32,0.5) 0%, rgba(11,17,32,0.2) 100%)",
             }} />
-            {/* Caption */}
-            <div style={{
-              position:"absolute",
-              bottom:"1rem", left:"1rem",
-              background:"rgba(11,17,32,0.75)",
-              backdropFilter:"blur(8px)",
-              border:"1px solid var(--border)",
-              borderRadius:"8px",
-              padding:"0.5rem 0.875rem",
-            }}>
-              <div style={{
-                fontSize:"0.65rem", fontWeight:700,
-                color:"var(--accent)", fontFamily:"var(--font-body)",
-                letterSpacing:"0.08em",
-              }}>
-                THIS IS WHAT WE SET OUT TO ORGANIZE
-              </div>
-            </div>
           </div>
 
         </div>
